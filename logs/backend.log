@@ -1,0 +1,13 @@
+INFO:     Will watch for changes in these directories: ['/home/scutliu/CheckDoc/WebCheckDoc/backend']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [688639] using StatReload
+INFO:     Started server process [688648]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:36264 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:36264 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [688648]
+INFO:     Stopping reloader process [688639]
